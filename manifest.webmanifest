@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Haze Tracker",
+  "short_name": "Haze",
+  "description": "Live 1-hour and 24-hour air quality for Singapore regions, with alerts when it crosses your threshold.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "en-SG",
+  "background_color": "#1f2a44",
+  "theme_color": "#1f2a44",
+  "categories": ["weather", "utilities", "health"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
